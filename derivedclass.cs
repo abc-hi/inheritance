@@ -10,6 +10,7 @@ namespace inheritanceTry
         { 
             Console.WriteLine("age:" + age);
             Console.WriteLine("name:"+ name);
+            Console.WriteLine("My first GitHub branch change");
 
         }
     }
